@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    background-color:#6EEA5A;
+}
+.gran{
+border: 5px white solid ;
+width: 1200px;
+height: 700px;
+position: relative;
+left: 250px;
+top:100px;
+}
+
+.pipka{
+   width: 500px;
+   height: 500px;
+   position: absolute;
+   top: 100px;
+   left: 320px;
+}
+
+.havalnik{
+    width: 300px;
+    position: absolute;
+    top: 350px;
+    left: 420px;
+}
+
+.noz1{
+    position: absolute;
+    top: 450px;
+    left: 500px
+}
+.noz2{
+    position: absolute;
+    top: 450px;
+    left: 600px
+}
+.glaz1{
+    position: absolute;
+    top: 250px;
+    left: 470px
+}
+.glaz2{
+    position: absolute;
+    top: 250px;
+    left: 620px
+}
+.sh1{
+    position: absolute;
+    top:330px;
+    left:357px;
+}
+.sh2{
+    position: absolute;
+    top:330px;
+    left:700px;
+}
+.uh1{
+    position: relative;
+    left: 200px;
+    top: 25px
+}
+.uh2{
+    position: relative;
+    left:650px;
+    bottom: 170px;
+}
